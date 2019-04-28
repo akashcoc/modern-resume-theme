@@ -1,8 +1,11 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: Byte academy
+  dates: 2019 - 2019
+  qualification: Python full stack
   quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+   Intensive full time Boot-camp/certification Course-aimed for working professionals to gain
+   hands on experience with python full stack.
+   
+CERTIFICATE
+❏ Courser - Using python to Access Web Data by Michigan university
+❏ EDX - JavaScript and Python for Web Development by Harvard university
