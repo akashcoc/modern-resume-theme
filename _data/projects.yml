@@ -1,8 +1,7 @@
 # Project template
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- name: Stock Trade Game
+  link: https://github.com/akashcoc/stocktrade
   quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    using Python,Flask,Sqlite,Bootstrap,Api
+  description: | Web based application in which players can make login and registration after signup
+they gets  starting amount of money with help of which users can buy or sell stocks.
